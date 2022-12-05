@@ -1,0 +1,66 @@
+html {
+  background: #fff;
+  height: 100%;
+}
+
+body {
+  font-size: 16px;
+    font-family: "Avenir Light", sans-serif;
+    display: block;
+    padding: 0px 200px;
+}
+
+hr {
+  height: 2px!important;
+}
+
+ul {
+  margin-top: 0.5rem!important;
+}
+
+li {
+  margin-bottom: 0.5rem!important;
+}
+
+
+.lg-img {
+  width: 40%;
+}
+
+
+h1 {
+  font-size: 32px;
+  text-align: center;
+  margin-block-start: 21.44px;
+  margin-block-end: 21.44px;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 29px;
+  font-weight: 700;
+  margin-top: 29px;
+  margin-bottom: 29px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 23px;
+}
+
+.img-header {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.center-fig {
+  display: block;
+}
+
+.center-fig img {
+  border: 5px solid #555;
+}
